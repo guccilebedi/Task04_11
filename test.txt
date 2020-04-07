@@ -1,0 +1,8 @@
+adobe.exe
+cs.bin
+matlab.exe
+matlab.rar
+idea.exe
+win.rar
+acrobat.cs
+photoshop.cc
